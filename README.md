@@ -26,8 +26,7 @@
     ->
     【Class_Lib_PhantomJS_Page.prototype.Function_Open = function ()】
     ->
-    【this.Var_Global_page.onXXX = Event_OnXXX;】
-    其中，【Event_OnXXX】的定义与实现也是在这个js文件里。
+    【this.Var_Global_page.onXXX = Event_OnXXX;】，其中，【Event_OnXXX】的定义与实现也是在这个js文件里。
 .
 .
 .
