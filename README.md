@@ -14,8 +14,20 @@
     
     监听了所有的事件。
     
-        事件说明：【 http://phantomjs.org/api/webpage/property/pages.html 】->左侧下方->图标为H的都是事件。
-        监听开关【 Lib_PhantomJS_Page.js 】 -> 【Class_Lib_PhantomJS_Page.prototype.Function_Open = function ()】这个方法里的 【 this.Var_Global_page.onXXX = Event_OnXXX; 】，【Event_OnXXX】的定义与实现也是在这个js文件里。
+    事件说明：
+        【http://phantomjs.org/api/webpage/property/pages.html 】
+        ->
+        左侧下方
+        ->
+        图标为H的都是事件
+    
+    监听开关
+    【Lib_PhantomJS_Page.js】
+    ->
+    【Class_Lib_PhantomJS_Page.prototype.Function_Open = function ()】
+    ->
+    【this.Var_Global_page.onXXX = Event_OnXXX;】
+    其中，【Event_OnXXX】的定义与实现也是在这个js文件里。
 .
 .
 .
