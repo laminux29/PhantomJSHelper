@@ -53,4 +53,6 @@
 
 
 
-有问题去【https://segmentfault.com/u/laminux29】给我发私信撕逼。
+有问题，欢迎去segmentfault给我发私信撕逼：
+
+https://segmentfault.com/u/laminux29
